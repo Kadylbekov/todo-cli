@@ -12,6 +12,7 @@
 - `list` — показать все задачи
 - `done <id>` — отметить задачу как выполненную
 - `delete <id>` — удалить задачу по ID
+- `stats` — показать статистику задач
 
 ---
 
@@ -22,3 +23,4 @@ go run main.go add "Купить хлеб"
 go run main.go list
 go run main.go done 1
 go run main.go delete 1
+go run main.go stats
