@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "Погладить кота",
+    "completed": true
+  },
+  {
+    "id": 2,
+    "title": "Пойти в магазин",
+    "completed": true
+  },
+  {
+    "id": 5,
+    "title": "Пойти на прогулку",
+    "completed": false
+  },
+  {
+    "id": 6,
+    "title": "Сделать домашку",
+    "completed": false
+  }
+]
