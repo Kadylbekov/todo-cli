@@ -1,22 +1,17 @@
 [
   {
     "id": 1,
-    "title": "Погладить кота",
+    "title": "Сделать домашку",
     "completed": true
   },
   {
     "id": 2,
-    "title": "Пойти в магазин",
-    "completed": true
-  },
-  {
-    "id": 5,
-    "title": "Пойти на прогулку",
+    "title": "Доделать проект",
     "completed": false
   },
   {
-    "id": 6,
-    "title": "Сделать домашку",
+    "id": 3,
+    "title": "Скачать музыку",
     "completed": false
   }
 ]
